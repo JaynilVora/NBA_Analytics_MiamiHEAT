@@ -25,6 +25,7 @@ Scatterplot shows Primary and Secondary Assists of players of Miami HEAT
 
 Bar graph shows secondary assists by all teams
 
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.24.52%20PM.png)
 
 
 
@@ -53,6 +54,7 @@ Driving to the basket is standard in the NBA. You can make a layup, get fouled, 
 
 Bar graph to show Points per Drive of all teams
 
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.31.50%20PM.png)
 
 
 
@@ -75,6 +77,7 @@ Bar graph to show Points per Drive of all teams
 
 Bar graph to show total number of drives by each player in Miami HEAT
 
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.33.02%20PM.png)
 
 
 
@@ -101,6 +104,11 @@ So why is do Dragic drives not lead to points? First, for the high number of dri
 
 Additionally, he is not great at making baskets out of drives. He is not as much of an anomaly here, but he is still on the low end.
 
+
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.36.45%20PM.png)
+
+
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.37.30%20PM.png)
 
 
 
@@ -145,6 +153,11 @@ Additionally, he is not great at making baskets out of drives. He is not as much
 
 So what does Dragic do out of drives? Dragic loves to pass out of drives. He really stands out as someone who loves to pass when he drives. Unfortunately, he is not very efficient in turning those passes in to assists. Perhaps he needs to commit to the drive more often.
 
+
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.38.56%20PM.png)
+
+
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%209.39.42%20PM.png)
 
 
 
