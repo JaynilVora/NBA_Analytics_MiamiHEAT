@@ -7,7 +7,7 @@ I wanted to analyze players in Miami HEAT who are really good at creating plays 
 
 Scatterplot shows Primary and Secondary Assists of players of Miami HEAT
 
-![alt text](NBA_Analytics_MiamiHEAT/Screen Shot 2018-04-05 at 8.56.43 PM.png)
+![alt text](https://github.com/JaynilVora/NBA_Analytics_MiamiHEAT/blob/master/Screen%20Shot%202018-04-05%20at%208.56.43%20PM.png)
 
 
 
